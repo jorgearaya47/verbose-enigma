@@ -16,4 +16,3 @@ galley of type and scrambled it to make a type specimen book.
 - Add and commit your changes to the branch you created (without the `git add .`)
 - Push your branch and changes
 - Create a pull request
- 
