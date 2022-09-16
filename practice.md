@@ -12,7 +12,8 @@
 has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a 
 galley of type and scrambled it to make a type specimen book.
 ```
-- Add and commit your changes to the branch you created
+- Add your name in the `names.txt` file
+- Add and commit your changes to the branch you created (without the `git add .`)
 - Push your branch and changes
 - Create a pull request
  
